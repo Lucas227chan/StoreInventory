@@ -1,5 +1,5 @@
-// Public browser configuration ONLY. Never put a service_role or secret key here.
+// Public browser configuration only. Never add secret or service_role keys.
 window.STORE_CONFIG = {
-  supabaseUrl: 'https://YOUR_PROJECT.supabase.co',
-  supabaseAnonKey: 'YOUR_SUPABASE_PUBLISHABLE_OR_ANON_KEY'
+  supabaseUrl: 'https://mcepxxookkjhsyjkzcqx.supabase.co',
+  supabaseAnonKey: 'sb_publishable_IMAYTIUY8OT9aIb_BJk99w_eh5Tyf9i'
 };
